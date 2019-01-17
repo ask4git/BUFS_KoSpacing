@@ -71,13 +71,13 @@ optional arguments:
 1. 프로젝트가 있는 폴더에 outpuut.txt파일에 결과가 출력됩니다.
 
 ## Accuracy
-Precision=  (#Number of correct tag)/(#Number of predicted tag)
-Recall=  (#Number of correct tag)/(#Number of tag)
-F-measure= 2×(Precision×Recall)/(Precision+Recall)
-Sentence Accuracy=  (#Number of correct sentence)/(#Number of sentence)
++Precision=  (#Number of correct tag)/(#Number of predicted tag)
++Recall=  (#Number of correct tag)/(#Number of tag)
++F-measure= 2×(Precision×Recall)/(Precision+Recall)
++Sentence Accuracy=  (#Number of correct sentence)/(#Number of sentence)
 
 ## Accuracy
-| Ver | Precision | Recall | F-measure | Sentence Accuracy |
+| Corpus | Precision | Recall | F-measure | Sentence Accuracy |
 |---|:---:|:---:|:---:|:---:|
 | 신문 말뭉치 |	0.9502	| 0.9032	| 0.9261	| 0.027 |
 | 소설 말뭉치	| 0.9421	| 0.8901	| 0.9153	| 0.016 |
