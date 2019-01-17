@@ -1,4 +1,4 @@
-# BUFS_KoSpacing(0.92)
+# BUFS_KoSpacing(Ver.0.95)
 BUFS_Korean_Spacing_Module  
 
 * 어절 사전과 형태소 사전을 이용한 한국어 띄어쓰기 모듈  
@@ -6,7 +6,7 @@ Korean spacing module using Eojeol dictionary and morpheme dictionary
 
 * 말뭉치에서 추출한 어절과 형태소로 각각의 어절 사전과 형태소 사전을 만들어서 띄어쓰기가 전혀 되어 있지 않은 문자열을 입력받아 사전정보를 이용하여 자동으로 띄어쓰기를 해 주는 모듈
 
-* 0.92 
+* 0.95 
 
 ## Dictionary
 + Corpus
