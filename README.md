@@ -76,7 +76,6 @@ optional arguments:
 + F-measure= 2×(Precision×Recall)/(Precision+Recall)
 + Sentence Accuracy=  (#Number of correct sentence)/(#Number of sentence)
 
-## Accuracy
 | Corpus | Precision | Recall | F-measure | Sentence Accuracy |
 |---|:---:|:---:|:---:|:---:|
 | 신문 말뭉치 |	0.9502	| 0.9032	| 0.9261	| 0.027 |
